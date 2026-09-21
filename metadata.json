@@ -1,0 +1,7 @@
+{
+  "name": "Laura Kids — Biosite Oficial",
+  "description": "Biosite oficial e responsivo da loja infantil Laura Kids. Looks com amor de mãe para vestir, brincar e encantar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
